@@ -1,0 +1,16 @@
+com\seleniumsimplified\webdriver\basics\scratchpad\Scratchpad.class
+com\seleniumsimplified\webdriver\cookies\CookiesExampleTest.class
+com\seleniumsimplified\junit\suites\EmptySuite.class
+com\seleniumsimplified\webdriver\basics\interrogate\findby\FindElementsExampleTest.class
+com\seleniumsimplified\webdriver\basics\interrogate\findby\FindByCssSelectorExampleTest.class
+com\seleniumsimplified\webdriver\basics\interrogate\findby\FindByXpathExampleTest.class
+com\seleniumsimplified\webdriver\basics\interrogate\findby\FindByIDOrNameExampleTest.class
+com\seleniumsimplified\webdriver\basics\interrogate\WebElementInterrogationTest.class
+com\seleniumsimplified\webdriver\basics\interrogate\findby\ChainingFindByExampleTest.class
+com\seleniumsimplified\webdriver\basics\interrogate\findby\AFirstFindByExampleTest.class
+com\seleniumsimplified\junit\suites\InterrogateOnlySuite.class
+com\seleniumsimplified\webdriver\synchronisation\webDriverWaitBasics\WebDriverWaitExampleTest.class
+com\seleniumsimplified\webdriver\basics\interrogate\findby\FindByCSSSelectorPathsExampleTest.class
+com\seleniumsimplified\webdriver\javascript\JavascriptExecutorExampleTest.class
+com\seleniumsimplified\junit\suites\ManipulateOnlySuite.class
+com\seleniumsimplified\webdriver\basics\manipulate\ManipulateExampleTest.class
