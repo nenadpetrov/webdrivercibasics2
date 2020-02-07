@@ -19,7 +19,7 @@ public class CookiesExampleTest {
 
         driver.navigate().refresh();
 
-        Cookie aCookie = driver.manage().getCookieNamed("SeleniumSimplifiedLastSearch");
+        Cookie aCookie = driver.manage().getookieNamed("SeleniumSimplifiedLastSearch");
 
         assertEquals("Should be no last search cookie", null, aCookie);
     }
